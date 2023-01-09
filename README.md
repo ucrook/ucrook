@@ -1,8 +1,6 @@
 - 👋 Welcome to my GitHub profile! My name is Julio.
 
 - 👀 In my free time, I enjoy exploring the world of programming and technology as a hobbyist.
-     I have a particular interest in Python and Linux, and have spent many hours tinkering 
-     with various projects and tools in these areas. 
 
 - 🌱 I have a particular interest in Python and Linux, and have spent many hours tinkering 
       with various projects and tools in these areas.
